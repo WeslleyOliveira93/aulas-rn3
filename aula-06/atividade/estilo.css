@@ -1,0 +1,39 @@
+body {  
+background-color: aqua;
+background-image: url(./1080x1920.jpg);
+text-align: center;
+background-attachment: fixed;
+}
+h1 {
+    color: red;
+}
+h2 {
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    box-shadow: 8px 0px 12px color(srgb white)
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 32px;
+    color: brown;
+}
+#box {
+    background-color: rgb(107, 47, 77);
+  color: white;
+  height: 120px;
+  width: 300px;
+  padding: 20px;
+  margin: 5vw ;
+  border: 12px solid rgb(255, 255, 255);
+  box-sizing: border-box;
+  text-decoration: line-through;
+  text-align: center;
+}
+#gradiente {
+    font-size: 40px;
+    background-image: linear-gradient(violet , red , blueviolet)
+
+
+}

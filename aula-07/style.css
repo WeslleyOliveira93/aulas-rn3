@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+.box {
+    border: 2px dashed gray;
+    padding: 5px;
+    min-height: 100vh;
+    box-sizing: border-box;
+
+    display: flex;
+    flex-direction:;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    align-content: s;
+    gap: 10px;
+    justify-content: ;
+}
+
+
+.box div {
+    min-width: 150px;
+    padding: 15px 30px;
+    flex: 1;
+}
+
+
+.item-1 {
+    background-color: tomato;
+}
+
+.item-2 {
+    background-color: yellowgreen;
+}
+
+.item-3 {
+    background-color: aquamarine;
+}
+
+.item-4 {
+    background-color: crimson;
+}
+
+.item-5 {
+    background-color: darkolivegreen;
+    justify-content: space-between;
+}
+
+.item-6 {
+    background-color: darkslategrey;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    letter-spacing: 2px;
+}
+
+@media (max-width: 480px;   ) {
+    max-width: ;
+}
+  

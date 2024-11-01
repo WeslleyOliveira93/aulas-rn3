@@ -1,0 +1,75 @@
+.card-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    background-color: #333;
+    padding: 20px;
+  }
+
+  .card {
+    width: 18rem;
+    background-color: #444;
+    color: #585858;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .btn-primary {
+    background-color: #007bff;
+    border: none;
+    color: #3a3a3a;
+  }
+
+  .card-img-top {
+    border-radius: 8px 8px 0 0;
+  }
+
+  body {
+    color: rgba(22, 22, 22, 0.158);
+  }
+
+  .row {
+    margin: 10px;
+  }
+
+  .container {
+    padding: 70px 0;
+  }
+
+  p,
+  li {
+    color: rgb(173, 172, 172);
+    font-size: 14px;
+  }
+
+  header,
+  .navbar {
+    background-color: #000000;
+  }
+
+  #nav-container {
+    padding-top: 10px;
+    padding-bottom: 20px;
+  }
+
+  #logo {
+    width: 75px;
+  }
+
+  .navbar-brand.brand-color {
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+  }
+
+  .navbar-brand.brand-color:hover {
+    color: rgb(228, 225, 225);
+  }
+
+  #navbar-links a {
+    color: rgb(177, 176, 176);
+  }
+
+  .navbar-expand-lg .navbar-nav .nav-link {
+    padding: 1rem 0.8rem;
+  }

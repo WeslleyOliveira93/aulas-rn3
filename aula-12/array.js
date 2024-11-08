@@ -34,3 +34,7 @@ for(let nome of nomes); {  //for each
     console.log("Bem-Vindo(a)");
 }
 
+console.log("HHHHHHHHHHHHHHHHHH");
+
+const frutas = ["Maçâ", "Laranja", "Abacaxi", "Pera", "Limão", "Morango"];
+
